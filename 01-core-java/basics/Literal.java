@@ -1,5 +1,3 @@
-package basics;
-
 public class Literal {
     public static void main(String args[]){
         byte b1=10; //Decimal literal
